@@ -4,7 +4,7 @@
 
 <p align="center"> Conocimiento en JavaScript, React JS, Redux, Node JS. Empática, responsable, con capacidad de escucha, compromiso y trabajo en equipo. Me adapto a cualquier proyecto y reto que me propongan. Veo el aprendizaje como algo continuo y siempre estoy aprendiendo nuevas tecnologías..</p>
 
-### **Puedes encontrarme en:**
+## **Puedes encontrarme en:**
 
 <p align="center">
 <a href="https://linkedin.com/in/lkguevara" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="lkguevara" height="30" width="40" /></a>
@@ -13,7 +13,7 @@
 <a href="https://platzi.com/p/lkguevara/" target="blank"><img align="center" src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="lkguevara" height="30" width="30"  /></a>
 </p>
 
-### **Tecnologías y herramientas** ⚙️ 
+## **Tecnologías y herramientas** ⚙️ 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,6 +23,6 @@
 
 ---
 
-### GitHub Stats 🚀
-
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=lkguevara&show_icons=true alt=rahuldkjain /> </p>
+## GitHub Stats 🚀
+![](https://github-readme-stats.vercel.app/api?username=lkguevara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lkguevara&theme=dark&hide_border=false)

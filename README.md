@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/lkguevara" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="lkguevara" height="30" width="40" /></a>
-<a href="https://lkguevara.netlify.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="lkguevara" height="30" width="40" /></a>
+<a href="https://lkguevara.me" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="lkguevara" height="30" width="40" /></a>
 <a href="https://twitter.com/lkdguevara" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="lkguevara" height="30" width="40" /></a>
 <a href="https://platzi.com/p/lkguevara/" target="blank"><img align="center" src="https://static.platzi.com/media/platzi-isotipo@2x.png" alt="lkguevara" height="30" width="30"  /></a>
 </p>
